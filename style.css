@@ -1,0 +1,1432 @@
+    /* cyrillic-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 100;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+    /* cyrillic */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 100;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2) format('woff2');
+        unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+    /* greek-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 100;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+    /* greek */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 100;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+    /* vietnamese */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 100;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+    /* latin-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 100;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 100;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzI.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* cyrillic-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+    /* cyrillic */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2) format('woff2');
+        unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+    /* greek-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+    /* greek */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+    /* vietnamese */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+    /* latin-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* cyrillic-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+    /* cyrillic */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2) format('woff2');
+        unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+    /* greek-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+    /* greek */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+    /* vietnamese */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+    /* latin-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* cyrillic-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+    /* cyrillic */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2) format('woff2');
+        unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+    /* greek-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+    /* greek */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+    /* vietnamese */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+    /* latin-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* cyrillic-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+    /* cyrillic */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2) format('woff2');
+        unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+    /* greek-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+    /* greek */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+    /* vietnamese */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+    /* latin-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* cyrillic-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+    /* cyrillic */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2) format('woff2');
+        unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+    /* greek-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+    /* greek */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+    /* vietnamese */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+    /* latin-ext */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc4.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    html {
+        line-height: 1.15;
+        /* 1 */
+        -webkit-text-size-adjust: 100%;
+        /* 2 */
+    }
+    
+    main {
+        display: block;
+    }
+    /**
+     * Correct the font size and margin on `h1` elements within `section` and
+     * `article` contexts in Chrome, Firefox, and Safari.
+     */
+    
+    h1 {
+        font-size: 2em;
+        margin: 0.67em 0;
+    }
+    /* Grouping content
+       ========================================================================== */
+    /**
+     * 1. Add the correct box sizing in Firefox.
+     * 2. Show the overflow in Edge and IE.
+     */
+    
+    hr {
+        box-sizing: content-box;
+        /* 1 */
+        height: 0;
+        /* 1 */
+        overflow: visible;
+        /* 2 */
+    }
+    /**
+     * 1. Correct the inheritance and scaling of font size in all browsers.
+     * 2. Correct the odd `em` font sizing in all browsers.
+     */
+    
+    pre {
+        font-family: monospace, monospace;
+        /* 1 */
+        font-size: 1em;
+        /* 2 */
+    }
+    /* Text-level semantics
+       ========================================================================== */
+    /**
+     * Remove the gray background on active links in IE 10.
+     */
+    
+    a {
+        background-color: transparent;
+    }
+    /**
+     * 1. Remove the bottom border in Chrome 57-
+     * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+     */
+    
+    abbr[title] {
+        border-bottom: none;
+        /* 1 */
+        text-decoration: underline;
+        /* 2 */
+        text-decoration: underline dotted;
+        /* 2 */
+    }
+    /**
+     * Add the correct font weight in Chrome, Edge, and Safari.
+     */
+    
+    b,
+    strong {
+        font-weight: bolder;
+    }
+    /**
+     * 1. Correct the inheritance and scaling of font size in all browsers.
+     * 2. Correct the odd `em` font sizing in all browsers.
+     */
+    
+    code,
+    kbd,
+    samp {
+        font-family: monospace, monospace;
+        /* 1 */
+        font-size: 1em;
+        /* 2 */
+    }
+    /**
+     * Add the correct font size in all browsers.
+     */
+    
+    small {
+        font-size: 80%;
+    }
+    /**
+     * Prevent `sub` and `sup` elements from affecting the line height in
+     * all browsers.
+     */
+    
+    sub,
+    sup {
+        font-size: 75%;
+        line-height: 0;
+        position: relative;
+        vertical-align: baseline;
+    }
+    
+    sub {
+        bottom: -0.25em;
+    }
+    
+    sup {
+        top: -0.5em;
+    }
+    /* Embedded content
+       ========================================================================== */
+    /**
+     * Remove the border on images inside links in IE 10.
+     */
+    
+    img {
+        border-style: none;
+    }
+    /* Forms
+       ========================================================================== */
+    /**
+     * 1. Change the font styles in all browsers.
+     * 2. Remove the margin in Firefox and Safari.
+     */
+    
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+        font-family: inherit;
+        /* 1 */
+        font-size: 100%;
+        /* 1 */
+        line-height: 1.15;
+        /* 1 */
+        margin: 0;
+        /* 2 */
+    }
+    /**
+     * Show the overflow in IE.
+     * 1. Show the overflow in Edge.
+     */
+    
+    button,
+    input {
+        /* 1 */
+        overflow: visible;
+    }
+    /**
+     * Remove the inheritance of text transform in Edge, Firefox, and IE.
+     * 1. Remove the inheritance of text transform in Firefox.
+     */
+    
+    button,
+    select {
+        /* 1 */
+        text-transform: none;
+    }
+    /**
+     * Correct the inability to style clickable types in iOS and Safari.
+     */
+    
+    button,
+    [type="button"],
+    [type="reset"],
+    [type="submit"] {
+        -webkit-appearance: button;
+    }
+    /**
+     * Remove the inner border and padding in Firefox.
+     */
+    
+    button::-moz-focus-inner,
+    [type="button"]::-moz-focus-inner,
+    [type="reset"]::-moz-focus-inner,
+    [type="submit"]::-moz-focus-inner {
+        border-style: none;
+        padding: 0;
+    }
+    /**
+     * Restore the focus styles unset by the previous rule.
+     */
+    
+    button:-moz-focusring,
+    [type="button"]:-moz-focusring,
+    [type="reset"]:-moz-focusring,
+    [type="submit"]:-moz-focusring {
+        outline: 1px dotted ButtonText;
+    }
+    /**
+     * Correct the padding in Firefox.
+     */
+    
+    fieldset {
+        padding: 0.35em 0.75em 0.625em;
+    }
+    /**
+     * 1. Correct the text wrapping in Edge and IE.
+     * 2. Correct the color inheritance from `fieldset` elements in IE.
+     * 3. Remove the padding so developers are not caught out when they zero out
+     *    `fieldset` elements in all browsers.
+     */
+    
+    legend {
+        box-sizing: border-box;
+        /* 1 */
+        color: inherit;
+        /* 2 */
+        display: table;
+        /* 1 */
+        max-width: 100%;
+        /* 1 */
+        padding: 0;
+        /* 3 */
+        white-space: normal;
+        /* 1 */
+    }
+    /**
+     * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+     */
+    
+    progress {
+        vertical-align: baseline;
+    }
+    /**
+     * Remove the default vertical scrollbar in IE 10+.
+     */
+    
+    textarea {
+        overflow: auto;
+    }
+    /**
+     * 1. Add the correct box sizing in IE 10.
+     * 2. Remove the padding in IE 10.
+     */
+    
+    [type="checkbox"],
+    [type="radio"] {
+        box-sizing: border-box;
+        /* 1 */
+        padding: 0;
+        /* 2 */
+    }
+    /**
+     * Correct the cursor style of increment and decrement buttons in Chrome.
+     */
+    
+    [type="number"]::-webkit-inner-spin-button,
+    [type="number"]::-webkit-outer-spin-button {
+        height: auto;
+    }
+    /**
+     * 1. Correct the odd appearance in Chrome and Safari.
+     * 2. Correct the outline style in Safari.
+     */
+    
+    [type="search"] {
+        -webkit-appearance: textfield;
+        /* 1 */
+        outline-offset: -2px;
+        /* 2 */
+    }
+    /**
+     * Remove the inner padding in Chrome and Safari on macOS.
+     */
+    
+    [type="search"]::-webkit-search-decoration {
+        -webkit-appearance: none;
+    }
+    /**
+     * 1. Correct the inability to style clickable types in iOS and Safari.
+     * 2. Change font properties to `inherit` in Safari.
+     */
+    
+     ::-webkit-file-upload-button {
+        -webkit-appearance: button;
+        /* 1 */
+        font: inherit;
+        /* 2 */
+    }
+    /* Interactive
+       ========================================================================== */
+    /*
+     * Add the correct display in Edge, IE 10+, and Firefox.
+     */
+    
+    details {
+        display: block;
+    }
+    /*
+     * Add the correct display in all browsers.
+     */
+    
+    summary {
+        display: list-item;
+    }
+    /* Misc
+       ========================================================================== */
+    /**
+     * Add the correct display in IE 10+.
+     */
+    
+    template {
+        display: none;
+    }
+    /**
+     * Add the correct display in IE 10.
+     */
+    
+    [hidden] {
+        display: none;
+    }
+    
+    body {
+        background-color: #fff;
+        font-family: 'Roboto', sans-serif, Arial;
+    }
+    /* This is setting variable (base colors)*/
+    
+     :root {
+        --color-primary: #111;
+        --color-secondary: #fff;
+        --color-accent: #808080;
+        --color-body: #4f4f4f;
+    }
+    /* This is the general setting of font size and font family*/
+    
+    html {
+        font-size: 62.5%;
+    }
+    
+    body {
+        color: var(--color-body);
+        font-size: 1.5rem;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4 {
+        color: var(--color-primary);
+    }
+    
+    h1 {
+        font-size: 7rem;
+    }
+    
+    h2 {
+        font-size: 3rem;
+    }
+    
+    @media screen and (min-width: 1024px) {
+        body {
+            font-size: 2rem;
+        }
+        h1 {
+            font-size: 8rem;
+        }
+        h2 {
+            font-size: 3rem;
+        }
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    /*Animation affects*/
+    /*Animation fade in*/
+    
+    @keyframes fadein {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+    
+    .anim-fade {
+        animation-name: fadein;
+        animation-duration: 2s;
+    }
+    
+    .fade-in {
+        opacity: 0;
+        transition: opacity 250ms ease-in;
+    }
+    
+    .fade-in.appear {
+        opacity: 1;
+    }
+    /*Buttons*/
+    
+    .button {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        font-size: 2rem;
+        text-align: center;
+        color: var(--color-primary);
+        cursor: pointer;
+        white-space: nowrap;
+        padding: 10px 40px 10px 40px;
+        transition: color 0.2s;
+        transition: background-color 0.2s;
+    }
+    
+    .button:hover {
+        background-color: var(--color-primary);
+        color: var(--color-secondary);
+        font-weight: bold;
+    }
+    
+    span.boldlink {
+        font-weight: bold;
+    }
+    /*Collapsible Content (menu)*/
+    
+    .collapsible {
+        background-color: rgba(245, 245, 245, 0.9);
+        transition: all 0.3s;
+    }
+    
+    .collapsible__header {
+        display: flex;
+        position: relative;
+        left: 10px;
+    }
+    /*We use 0 height + hidden overflow for animation*/
+    
+    .collapsible__content_1 {
+        max-height: 0;
+        overflow: hidden;
+        opacity: 0;
+        transition: all 0.5s;
+    }
+    
+    .collapsible__content_2 {
+        max-height: 0;
+        overflow: hidden;
+        opacity: 0;
+        transition: 0.3s;
+        float: left;
+        position: relative;
+        right: 10px;
+    }
+    /*max-height ensure its not actually taking on that much space*/
+    
+    .collapsible--expanded .collapsible__content_1 {
+        max-height: 100vh;
+        opacity: 1;
+    }
+    
+    .collapsible--expanded .collapsible__content_2 {
+        max-height: 200px;
+        opacity: 1;
+    }
+    /*Menu CSS*/
+    
+    .menu {
+        margin-left: 3vw;
+        margin-top: 40px;
+        float: left;
+        width: 240px;
+        margin-bottom: 0;
+    }
+    
+    .menu-title {
+        font-family: 'Roboto', sans-serif, Arial;
+        font-size: 3.2rem;
+        margin: 0;
+        opacity: 0.7;
+        transition: 0.2s;
+    }
+    
+    .menubar {
+        height: 200px;
+        float: left;
+        position: relative;
+    }
+    
+    .menu-element {
+        max-height: 3.2rem;
+        margin-top: 0.1rem;
+        opacity: 0.7;
+        transition: 0.2s;
+    }
+    
+    .menu-title:hover {
+        opacity: 1;
+    }
+    
+    .menu-element:hover {
+        opacity: 1;
+    }
+    
+    .menu-item {
+        margin: 1.2rem 0 1.2rem 0.9rem;
+    }
+    
+    .menu-item4 {
+        margin-top: 3.5rem;
+    }
+    
+    .menu-button {
+        color: var(--color-primary);
+        font-weight: 300;
+        font-size: 2.1rem;
+        padding: 5px 10px 5px 0;
+        transition: all 0.3s;
+    }
+    
+    .menu-button:hover {
+        color: var(--color-secondary);
+        background-color: var(--color-primary);
+        font-weight: bold;
+        font-size: 2.3rem;
+    }
+    
+    .menu-list {
+        list-style-type: none;
+        padding: 0;
+    }
+    
+    .sticky {
+        position: fixed;
+    }
+    /*Horizontal Scrolling Setting*/
+    
+    .main-container {
+        width: 100vw;
+        height: 100vh;
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+    
+    .main-holder {
+        width: 200vw;
+        display: flex;
+        grid-column-gap: 3px;
+        flex-direction: row;
+    }
+    /*Page 1 block and title construction*/
+    
+    .p1 {
+        width: 100vw;
+        height: 100vh;
+        background-image: url(../Library/Content-Library/image/Page-1/p1-bg.jpg);
+        background-size: 1912px 1075px;
+        background-position: 30% 0%;
+        background-repeat: no-repeat;
+    }
+    
+    .maintitle {
+        font-family: 'Roboto', sans-serif, arial;
+        text-align: left;
+        padding-left: 35%;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 50px;
+        margin-bottom: 0px;
+        margin-top: 0;
+    }
+    
+    hr {
+        width: 78%;
+    }
+    
+    .highlight {
+        font-style: normal;
+    }
+    
+    .black {
+        background-color: var(--color-primary);
+        color: var(--color-secondary);
+        font-weight: bold;
+    }
+    
+    .Subtitle {
+        font-family: 'Roboto', sans-serif, arial;
+        font-size: 2.8rem;
+        font-weight: 300;
+        padding-left: 36%;
+        margin: 0;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 38px;
+        margin-bottom: 10px;
+    }
+    
+    .highlight-sub {
+        font-style: normal;
+    }
+    
+    .p1button1 {
+        margin-left: 80%;
+    }
+    /*Page 2 sectional division and layout*/
+    
+    .p2 {
+        width: 100vw;
+        height: 100vh;
+    }
+    
+    .p2container {
+        height: 617px;
+        width: 95%;
+        border: 4px solid var(--color-primary);
+        margin: 5.5rem 2.5% 3rem 2.5%;
+        background-image: url(../Library/Content-Library/image/Page-2/bg-ink.jpg);
+        background-repeat: no-repeat;
+        background-size: 1585px;
+    }
+    
+    .grid--1x2 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .impactfr {
+        width: 100%;
+    }
+    
+    .p2subtitle {
+        font-size: 3.5rem;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        text-align: center;
+        margin: 11.5rem 0 0 0;
+    }
+    
+    .p2highlight {
+        background-color: var(--color-primary);
+        color: var(--color-secondary);
+        font-style: normal;
+    }
+    
+    .p2highlight1 {
+        font-weight: 600;
+    }
+    
+    .p2highlight2 {
+        font-weight: 600;
+    }
+    
+    .p2num {
+        font-size: 20rem;
+        margin: 0;
+        text-align: center;
+        font-weight: bold;
+        transition: all 0.3s;
+    }
+    
+    .p2num:hover {
+        font-size: 21rem;
+    }
+    
+    .p2bottombox {
+        width: 60%;
+        margin: auto;
+        transition: all 300ms;
+    }
+    
+    .p2element {
+        float: left;
+        height: 10rem;
+        margin-right: 2rem;
+    }
+    
+    .p2text {
+        font-size: 3rem;
+        font-weight: 300;
+        color: var(--color-primary);
+        margin: 0;
+        transition: all 300ms;
+    }
+    
+    .p2body {
+        font-weight: 300;
+        font-size: 2rem;
+        color: var(--color-primary);
+        transition: all 300ms;
+    }
+    
+    div.p2bottombox:hover {
+        background-color: var(--color-primary);
+    }
+    
+    .p2bottombox:hover .p2text {
+        font-weight: 500;
+        color: var(--color-secondary);
+    }
+    
+    .p2bottombox:hover .p2body {
+        font-weight: 400;
+        color: var(--color-secondary);
+    }
+    
+    .p2bottombox:hover .whiten {
+        color: var(--color-secondary);
+        font-weight: 400;
+    }
+    
+    .p2button1 {
+        margin: 3rem 4rem 0 0;
+        float: right;
+    }
+    /*Panels (cards) General*/
+    /*All of the general settings are here*/
+    /*Displacement to bottom of the panel*/
+    
+    .panel-heading {
+        font-family: 'Roboto', sans-serif, Arial;
+        font-weight: bold;
+        color: var(--color-primary);
+        transition: all 0.3s;
+    }
+    
+    .panel-body {
+        text-align: center;
+    }
+    
+    .panel-bodytext {
+        font-size: 2.0rem;
+        font-weight: 400;
+        font-family: 'Roboto', sans-serif, Arial;
+        color: var(--color-primary);
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding-bottom: 20px;
+    }
+    
+    .p3-panel:hover .panel-heading {
+        font-size: 4.5rem;
+    }
+    
+    .p3-panel:hover .panelbd {
+        transform: perspective(100px) translateZ(1px);
+    }
+    /*Panel specific settings for background*/
+    
+    .p3-p1 {
+        background-image: url(../Library/Content-Library/image/Page-3/Panel-1bg-tree.png);
+        background-size: 400px 617px;
+    }
+    
+    .p3-p2 {
+        background-image: url(../Library/Content-Library/image/Page-3/Panel-2-bg-landscape.png);
+        background-size: 400px 617px;
+    }
+    
+    .p3-p3 {
+        background-image: url(../Library/Content-Library/image/Page-3/panel-3bg-flower.png);
+        background-size: 400px 617px;
+    }
+    /*Creating Grids for Layout*/
+    
+    .grid {
+        display: grid;
+    }
+    /*Page 3 grid layout*/
+    
+    .grid--1x3 {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    @media screen and (min-width: 1200px) {
+        .grid--1x3 {
+            width: 90vw;
+        }
+    }
+    
+    .p3 {
+        width: 100vw;
+        height: 100vh;
+    }
+    
+     ::-webkit-scrollbar {
+        display: none;
+    }
+    
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    .imgone {
+        width: 375px;
+        height: 280px;
+        border-bottom: 2px solid;
+        margin-bottom: -7px;
+    }
+    
+    #box_es {
+        display: flex;
+        margin-left: 13.5%;
+        grid-column-gap: 15px;
+        margin-top: 15px;
+    }
+    
+    .firh2 {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 40px;
+        text-transform: uppercase;
+        margin: 0;
+    }
+    
+    .secdiv {
+        border-left: 1px solid black;
+        padding-left: 10px;
+        margin-left: 15px;
+    }
+    
+    .firh3 {
+        font-weight: 300;
+        font-size: 22px;
+        line-height: 50px;
+        margin: 0;
+    }
+    /* .fdarkh3 {
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 38px;
+        margin: 0;
+        color: white;
+        width: 90%;
+        background-color: black;
+    } */
+    
+    .cardbtn {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        font-size: 2rem;
+        text-align: center;
+        color: #111;
+        cursor: pointer;
+        white-space: nowrap;
+        padding: 3px 30px;
+        border-color: #111;
+        border-style: solid;
+        border-width: 3.5px;
+        transition: color 0.2s;
+        transition: background-color 0.2s;
+    }
+    
+    .cardbtn:hover {
+        background-color: #111;
+        color: #fff;
+        font-weight: 400;
+    }
+    
+    .subdiv {
+        border: 2px solid black;
+        padding: 15px 25px 15px 25px;
+    }
+    
+    .box1 {
+        transition: all 0.3s ease 0s;
+    }
+    
+    .secdiv {
+        transition: all 0.3s ease 0s;
+    }
+    
+    .box1:hover {
+        transform: perspective(100px) translateZ(1px);
+    }
+    
+    .box1:hover .secdiv {
+        transform: perspective(100px) translateZ(2px);
+    }
+    
+    .martop {
+        margin-top: 15px;
+    }
+    
+    .panelbd {
+        display: flex;
+        flex-direction: column;
+        height: 800px;
+        justify-content: space-evenly;
+        padding: 27px;
+        transition: all 0.3s;
+    }
+    
+    .p3-p1 {
+        background: #EEEEEE;
+    }
+    
+    .p3-p2 {
+        background: #DDDDDD;
+    }
+    
+    .p3-p3 {
+        background: #CCCCCC;
+    }
+    
+    .firh1 {
+        font-weight: 300;
+        font-size: 30px;
+        margin: 0;
+        line-height: 1px;
+    }
+    
+    .panediv .firh2 {
+        line-height: 86px;
+        text-transform: uppercase;
+        font-size: 40px;
+    }
+    
+    .lastread {
+        width: 80%!important;
+    }
+    
+    .panediv .firh3 {
+        width: 71%;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 38px;
+    }
+    
+    .panediv .firh4 {
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 38px;
+        margin-bottom: 0;
+        margin-left: 0;
+    }
+    
+    .panediv0 {
+        border: 2px solid;
+        padding: 15px;
+        width: 67.5%;
+        transition: all 0.3s ease 0s;
+    }
+    
+    .panediv0:hover {
+        background-color: #111;
+    }
+    
+    .panediv0:hover .firh3 {
+        color: white;
+    }
+    
+    .panediv0:hover .firh4 {
+        color: white;
+    }
+    
+    .panediv0 .firh4 {
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 38px;
+        margin: 0;
+        border-bottom: 2px solid;
+        width: 25%;
+        color: black;
+        transition: all 0.3s ease 0s;
+    }
+    
+    .panediv0 .fdarkh3 {
+        width: 60%;
+    }
+    
+    .panediv0 .firh3 {
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 38px;
+        color: #111;
+        transition: all 0.3s ease 0s;
+    }
+    
+    .maintitle {
+        padding-top: 55px;
+    }
+    
+    .panediv .secdiv {
+        margin-left: 0!important;
+    }
+    
+    @media only screen and (max-width: 600px) {
+        .p1 {
+            width: 300vw;
+            height: 100vh;
+            background-image: url(../Library/Content-Library/image/Page-1/p1-bg.jpg);
+            background-size: 1912px 1075px;
+            background-position: 30% 0%;
+            background-repeat: no-repeat;
+        }
+        #box_es {
+            margin-left: 0;
+        }
+        .main-holder {
+            grid-column-gap: 221px;
+        }
+        .panelbd {
+            width: 478px;
+        }
+    }
